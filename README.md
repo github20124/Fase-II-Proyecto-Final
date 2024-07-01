@@ -8,8 +8,8 @@ El data set contenido en el proyecto, consiste en una base de datos de Levantami
 
 OpenPowerlifting está creado desde un archivo de dominio público de la historia del levantamiento de pesas y obtenido de Kaggle.
 
-En el transcurso del curso, se evaluaron varios modelos; sin embargo, al evaluar algunos iniciales, se dieron problemas de entrenamiento, mismo que se realizaron cambios al dataset original, denominándolo como OpenPowerlifting1, donde se procesó de nuevo la Ingeniería de Características y creando de nuevo el data set denominado Data1, utilizado para la creación de Modelos de Clasificación.
- 
+En el transcurso del curso, se evaluaron varios modelos; sin embargo, al evaluar algunos iniciales, se dieron problemas de entrenamiento, mismo que se realizaron cambios al dataset original llamado OpenPowerlifting, creando otro y llamado OpenPowerlifting1, donde se procesó de nuevo la Ingeniería de Características y creando de nuevo el data set denominado Data1, utilizado para la creación de Modelos de Clasificación.
+
 #Proceso de modelado de datos
 
 Con la base de datos Data1 en formato csv (delimitado por comas), se inicio su carga para posterior creación de los diversos modelos, tales como Naives, Bayes, LDA, Regresión logística, entre otros.
